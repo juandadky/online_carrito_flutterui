@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","online_reservation|lib/dashboardpage.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
